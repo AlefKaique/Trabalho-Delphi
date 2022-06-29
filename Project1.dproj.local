@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/19 23:23:21.000.353,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 23:30:17.000.367,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/19 23:34:59.000.670,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/06/19 23:43:29.000.151,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit2.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/19 23:43:29.000.151,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit2.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/06/19 23:43:30.000.224,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit3.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/06/19 23:43:30.000.991,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 23:43:30.000.991,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/19 23:43:30.000.224,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Unit3.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/06/19 23:43:31.000.837,C:\Users\USUARIO\Documents\CEAP\Delphi\ASFDGHDRSTHESRTJSRJSRFJDFGSJDFGJDFSGJFGSJFGSJ\Project1.dproj=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
